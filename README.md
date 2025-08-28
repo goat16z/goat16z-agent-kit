@@ -101,13 +101,10 @@ Anyone - whether an SF-based AI researcher or a crypto-native builder - can brin
   - Price feed integration for market analysis
   - Automated decision-making capabilities
 
-## 📃 Documentation
-
-You can view the full documentation of the kit at [docs.sendai.fun](https://docs.sendai.fun/v0/introduction)
 
 ## Why We Built V2 and Why Upgrade?
 
-The Solana Agent Kit V2 is a major upgrade from V1, to learn why check out our [migration guide](./MIGRATING.md)
+The Goat16z Agent Kit V2 is a major upgrade from V1, to learn why check out our [migration guide](./MIGRATING.md)
 
 ## 📦 Core Installation
 
