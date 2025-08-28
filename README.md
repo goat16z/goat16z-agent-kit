@@ -2,7 +2,7 @@
 
 # Goat16z Agent Kit
 
-![SAKCover2](https://github.com/goat16z/goat16z-agent-kit/issues/1#issue-3364288436)
+![SAKCover2](https://github.com/user-attachments/assets/a6072421-8958-4cee-934a-a10ea32ae75e)
 
 
 </div>
