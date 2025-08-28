@@ -1,4 +1,4 @@
-# Contributing to Solana Agent Kit
+# Contributing to Goat16z Agent Kit
 
 First off, thank you for considering contributing to Solana Agent Kit! 🎉 Your contributions are **greatly appreciated**.
 
