@@ -4,7 +4,7 @@ First off, thank you for considering contributing to Solana Agent Kit! 🎉 Your
 
 ## Table of Contents
 
-- [Contributing to Solana Agent Kit](#contributing-to-solana-agent-kit)
+- [Contributing to Goat16z Agent Kit](#contributing-to-goat16z-agent-kit)
   - [Table of Contents](#table-of-contents)
   - [Code of Conduct](#code-of-conduct)
   - [How Can I Contribute?](#how-can-i-contribute)
